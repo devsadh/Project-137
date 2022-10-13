@@ -1,0 +1,27 @@
+#text{
+    font-family: 'Pacifico';
+}
+
+input{
+    height: 35px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#ins{
+    font-family: 'Edu NSW ACT Foundation';
+    font-size: larger;
+    font-weight: 500;
+}
+
+#start{
+    color: black;
+    font-weight: 700;
+    font-family: 'Dancing Script';
+    font-size: larger;
+}
+
+canvas{
+    border-radius: 5px;
+    border:3px solid black;
+}
